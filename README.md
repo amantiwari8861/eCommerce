@@ -1,5 +1,4 @@
 # Commands to upload project on github
-
 - `git config --global user.email=""` <br>
 - `git config --global user.name="Aman Tiwari"` <br>
 - `git init` <br>
